@@ -36,17 +36,4 @@ The artifact demonstrates:
 - `script.js` – mobile navigation, active links, and animations
 - `START_HERE.txt` – setup and publishing instructions
 
-## Before Publishing
 
-1. Replace `YOUR-GITHUB-USERNAME` in `index.html`.
-2. Review the email and LinkedIn URL.
-3. Remove or revise any skill that you cannot confidently discuss.
-4. Do not upload confidential employer data, security logs, internal IP addresses,
-   API keys, tokens, passwords, real incidents, or private screenshots.
-5. Open `index.html` locally to test the site.
-
-## GitHub Pages URL
-
-For a repository named `YOUR-GITHUB-USERNAME.github.io`, the site will normally be:
-
-`https://YOUR-GITHUB-USERNAME.github.io/`
