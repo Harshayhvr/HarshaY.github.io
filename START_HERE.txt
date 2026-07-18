@@ -1,0 +1,141 @@
+HARSHAVARDHAN REDDY YARRAPUREDDY – PORTFOLIO SETUP
+===================================================
+
+This website works without a ZIP template, external library, image, or paid
+hosting service. The required website files have already been created:
+
+1. index.html
+2. styles.css
+3. script.js
+4. README.md
+
+PART A – TEST ON YOUR COMPUTER
+------------------------------
+
+1. Keep all four files together in one folder.
+2. Double-click index.html.
+3. The portfolio should open in Chrome, Edge, or another browser.
+4. Test the navigation links and resize the browser window.
+
+PART B – REQUIRED EDIT
+----------------------
+
+Open index.html in Visual Studio Code or Notepad.
+
+Search for:
+YOUR-GITHUB-USERNAME
+
+Replace it with the exact GitHub username.
+
+Also review:
+- Email address
+- LinkedIn address
+- Experience dates
+- Project descriptions
+- Skills
+
+PART C – CREATE A GITHUB ACCOUNT
+--------------------------------
+
+1. Go to github.com.
+2. Create an account or sign in.
+3. Confirm the exact username you selected.
+
+PART D – CREATE THE REPOSITORY
+------------------------------
+
+For the simplest website address, create a user Pages repository.
+
+Repository name:
+YOUR-GITHUB-USERNAME.github.io
+
+Example:
+If the username is harsha123, the repository name must be:
+harsha123.github.io
+
+Use these settings:
+- Visibility: Public
+- Add README: optional because this folder already includes README.md
+
+PART E – UPLOAD THE FILES
+-------------------------
+
+1. Open the new repository.
+2. Click Add file.
+3. Click Upload files.
+4. Upload:
+   - index.html
+   - styles.css
+   - script.js
+   - README.md
+5. Enter the commit message:
+   Create cybersecurity portfolio
+6. Click Commit changes.
+
+IMPORTANT:
+index.html must be at the top/root of the repository. Do not place the website
+inside another folder.
+
+PART F – ENABLE GITHUB PAGES
+----------------------------
+
+1. Open repository Settings.
+2. Select Pages in the sidebar.
+3. Under Build and deployment, select:
+   Source: Deploy from a branch
+4. Choose:
+   Branch: main
+   Folder: /(root)
+5. Click Save.
+
+The website address should be:
+https://YOUR-GITHUB-USERNAME.github.io/
+
+Publishing can take several minutes.
+
+PART G – TEST BEFORE SUBMISSION
+-------------------------------
+
+1. Open the site URL.
+2. Open the same URL in an Incognito or Private window.
+3. Confirm that:
+   - The page loads without signing in.
+   - Navigation links work.
+   - The email and LinkedIn links work.
+   - The site works on a phone.
+   - No confidential information is visible.
+
+PART H – ASSIGNMENT SUBMISSION
+------------------------------
+
+Submit:
+1. The GitHub Pages website URL
+2. The assignment reflection
+3. Any additional response required by the course rubric
+
+SECURITY WARNING
+----------------
+
+Never upload:
+- Employer or university security logs
+- Internal IP addresses or hostnames
+- Real phishing messages
+- Real incident numbers
+- User, employee, or student information
+- Firewall rules
+- Vulnerability scan reports
+- API keys, passwords, tokens, or credentials
+- Private system screenshots
+
+
+ARTIFACT 2 UPDATE
+-----------------
+
+This version contains both Artifact 1 and Artifact 2.
+
+To update GitHub:
+1. Upload the new index.html and styles.css.
+2. Replace the existing versions.
+3. Commit with: Add Artifact 2 to portfolio
+4. Wait for GitHub Pages to redeploy.
+5. Refresh the public site with Ctrl + F5.
